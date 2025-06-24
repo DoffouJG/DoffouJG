@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"><strong>2021 - 2023 :</strong>strong> Computer science and mathematics from Bois de Boulogne College</p>
+<p align="left"><strong>2021 - 2023 :</strong> Computer science and mathematics from Bois de Boulogne College</p>
 
 ###
 
