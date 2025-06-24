@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">My name is **Jean Gael Doffou** and i'm a **computer Engineering student** from Montreal.</p>
+<p align="left">My name is <strong>Jean Gael Doffou</strong> and i'm a <strong>computer Engineering student</strong> from Montreal.</p>
 
 ###
 
-<p align="left">**2021 - 2023 :** Computer science and mathematics from Bois de Boulogne College</p>
+<p align="left"><strong>2021 - 2023 :</strong>strong> Computer science and mathematics from Bois de Boulogne College</p>
 
 ###
 
-<p align="left">**2024 - :** University studies in Computer Engineering at Polytechnique Montréal</p>
+<p align="left"><strong>2024 - :</strong> University studies in Computer Engineering at Polytechnique Montréal</p>
 
 ###
 
